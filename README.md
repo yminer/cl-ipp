@@ -3,6 +3,10 @@ Content
 
 Common Lisp CFFI interface Code to Intel IPP library.
 
+Authors
+-------
+
+Matthieu Lagacherie and Yannick Drant
 
 Functions
 ---------
@@ -2529,3 +2533,5 @@ Functions
  * ippsNearbyInt_64f
  * ippsModf_32f
  * ippsModf_64f
+
+
